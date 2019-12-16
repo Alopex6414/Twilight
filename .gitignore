@@ -7,15 +7,10 @@
 cmake-build-debug
 
 # User-specific files
-*.sln
 *.suo
-*.user
 *.userosscache
 *.sln.docstates
 *.userprefs
-*.vcproj
-*.vcxproj
-*.filters
 
 # Build results
 [Dd]ebug/
